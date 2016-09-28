@@ -116,16 +116,13 @@ body {
     font-size: 20px;
 }
 
-.post {
-    font-size: 30px;
-    width: 873px;
-    margin: 0 auto;
-   }
-.post h2 {
+h2 {
     line-height: 100px;
     font-weight: normal;
     color: #525558;
+    font-size: 30px;
 }
+
 .wrapper1 {
     width: 885px;
     line-height: 30px;
