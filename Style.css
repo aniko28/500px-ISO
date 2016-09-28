@@ -79,9 +79,9 @@ li {
 
 }
 .top {
-    background: url(https://iso.500px.com/wp-content/uploads/2016/09/stock-photo-174103407.jpg) no-repeat center center;
-    width: 100%;
+    background: url(stock-photo-174103407.jpg) no-repeat center center;
     height: 700px;
+    background-size: cover;
 }
 .content p {
     color:  #09bdfd;
