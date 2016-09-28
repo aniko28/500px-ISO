@@ -123,48 +123,46 @@ h2 {
     font-size: 30px;
 }
 
-.wrapper1 {
-    width: 885px;
-    line-height: 30px;
-    display: inline-block;
-    margin: 0 206px;
-}
-.wrapper1 img {
-    float: left;
-    margin: 0 30px;
+.article {
+    padding-bottom: 30px;
+    font-size: 16px;
+    line-height: 29px;
 }
 
-.wrapper1 h3{
+.article img {
+    float: left;
+    margin: 0 30px 0 0;
+}
+
+.top-posts h3{
     font-size: 21px;
-    height: 102px;
     font-weight: bold;
 }
-.wrapper1 h4 {
-    height: 56px;
-    font-size: 11px;
-    line-height: 61px;
+.top-posts h4 {
+    margin-bottom: 10px;
 }
 h4 .blue{
     color: #02adea;
 }
-.wrapper1 p {
-    font-size: 11px;
-    line-height: 16px;
-    height: 80px;
+.top-posts p {
 }
+
+.top-posts .article-content {
+    margin-left: 500px;
+}
+
 .cl {
-    height: 100px;
+    clear: both;
 }
 .article .button{
-    float: right;
-    font-size: 11px;
     background: #02adea;
-    border: 0px solid ;
-    color: #c9d4db;
+    color: white;
     text-decoration: none;
     border-radius: 2px;
-    padding: 2px 14px;
-    margin: 0 229px 0 0;
+    padding: 3px 14px;
+    margin-top: 2em;
+    display: inline-block;
+    font-size: 0.8em;
 }
 
 h6{
